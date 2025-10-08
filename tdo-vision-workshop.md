@@ -37,6 +37,12 @@ in the far distance
 <!-- .element: style="font-size:20px;" -->
 
 ---
+
+<!-- .slide: data-background="#000000" -->
+
+<video height="100%" src="/assets/Pet-Shop-Boys-Go-West.mp4" data-autoplay>
+
+---
 ---
 
 <!-- .slide: data-background="./assets/ttc.exercise.png" data-background-size="10vh" data-background-position="bottom 2vh left 2vh" -->
