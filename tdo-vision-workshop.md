@@ -109,9 +109,9 @@ Our next step is to come up with a strategy to deliver on this. Please help form
 Note:
 The team can use this prompt, or another, or parts of it. It's up to them!
 
-<!-- .slide: data-background="./assets/ttc.exercise.png" data-background-size="10vh" data-background-position="bottom 2vh left 2vh" style="font-size:15px;" -->
-
 ---
+
+<!-- .slide: data-background="./assets/ttc.exercise.png" data-background-size="10vh" data-background-position="bottom 2vh left 2vh" style="font-size:15px;" -->
 
 ## Prompt Example
 
