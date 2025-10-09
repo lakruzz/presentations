@@ -109,6 +109,29 @@ Our next step is to come up with a strategy to deliver on this. Please help form
 Note:
 The team can use this prompt, or another, or parts of it. It's up to them!
 
+<!-- .slide: data-background="./assets/ttc.exercise.png" data-background-size="10vh" data-background-position="bottom 2vh left 2vh" style="font-size:15px;" -->
+
+## Prompt Example
+
+Our tech company "Test & DevOps" has been in business for four years. We are 30+ full-time employees. We deliver services within four distinct SME areas: Test Automation, Test Management, Software Development and Customer Experience design. We are a subsidiary of a management consulting bureau with 1700 management consultants. Our company is one of eight, that live together under a sub brand: "The Tech Collective" which mostly serve as a sub supplier to our mother company.
+
+One specific overarching problem we've had up until now is, that even though our four SME areas are individually successful - we're mostly delivering individually within each area. In reality we're not that good at joining forces and delivering together.
+
+We have come up with an renewal program we call "The New Us" and a new vision statement: _"We want to be be recognized as the one-stop partner for wicked problem-solving across the full SDLC, by leveraging both advisory- and implementation services"_. How do we become better at collaborating with IM from a commercially point of view, while maintaining and sharpening the edge that our specialized capabilities offer us. Where and when does it make sense to build on own client engagements and where can we utilize on IM network.
+
+Our next step is to come up with a strategy to deliver on this. Please help formulate this strategy - consider the following:
+
+- What products and services should we develop?
+- Are there any other SME areas that should be covered to be truly holistic?
+- What's the narrative that will attract attention from both potential customers and potential recruits?
+- What could be or _"why"_ or our _"purpose"_ in this narrative?
+- The _Vision_ drives _Strategy_ which drive _Tactics_: Please deliver the strategy in a format that is very concrete and very actionable - it should point to tactics.
+- Internally we're working with Objectives and Key Results (OKR). In that context - please suggest one or two objectives, we can focus on in the next coming quarter.
+
+Note:
+The team can use this prompt, or another, or parts of it. It's up to them!
+
+
 ---
 ---
 
