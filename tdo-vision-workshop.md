@@ -111,6 +111,8 @@ The team can use this prompt, or another, or parts of it. It's up to them!
 
 <!-- .slide: data-background="./assets/ttc.exercise.png" data-background-size="10vh" data-background-position="bottom 2vh left 2vh" style="font-size:15px;" -->
 
+---
+
 ## Prompt Example
 
 Our tech company "Test & DevOps" has been in business for four years. We are 30+ full-time employees. We deliver services within four distinct SME areas: Test Automation, Test Management, Software Development and Customer Experience design. We are a subsidiary of a management consulting bureau with 1700 management consultants. Our company is one of eight, that live together under a sub brand: "The Tech Collective" which mostly serve as a sub supplier to our mother company.
