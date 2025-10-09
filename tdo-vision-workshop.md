@@ -119,7 +119,7 @@ Our tech company "Test & DevOps" has been in business for four years. We are 30+
 
 One specific overarching problem we've had up until now is, that even though our four SME areas are individually successful - we're mostly delivering individually within each area. In reality we're not that good at joining forces and delivering together.
 
-We have come up with an renewal program we call "The New Us" and a new vision statement: _"We want to be be recognized as the one-stop partner for wicked problem-solving across the full SDLC, by leveraging both advisory- and implementation services"_. How do we become better at collaborating with IM from a commercially point of view, while maintaining and sharpening the edge that our specialized capabilities offer us. Where and when does it make sense to build on own client engagements and where can we utilize on IM network.
+We have come up with an renewal program we call "The New Us" and a new vision statement: _"We want to be be recognized as the one-stop partner for wicked problem-solving across the full SDLC, by leveraging both advisory- and implementation services"_. How do we become better at collaborating with Motehr Company from a commercially point of view, while maintaining and sharpening the edge that our specialized capabilities offer us. Where and when does it make sense to build on own client engagements and where can we utilize on IM network.
 
 Our next step is to come up with a strategy to deliver on this. Please help formulate this strategy - consider the following:
 
