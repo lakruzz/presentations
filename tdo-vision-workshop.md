@@ -178,3 +178,10 @@ There are no rules - other than the the team will own the agenda for ten minutes
 | 2:50 | 0:10 | dot.vote - reflect |
 | 3:00 |      | Wrapup |
 
+---
+---
+
+<!-- .slide: data-background="#000000" -->
+
+<video height="100%" src="/assets/shoot-dont-talk.mp4" data-autoplay>
+
