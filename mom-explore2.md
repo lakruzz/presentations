@@ -6,7 +6,7 @@
 ---
 <!-- .slide: data-background="#111111" -->
 
-[![reveal markdown](./assets/revealmarkdown.png)<!-- .element style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=lakruzz&repo=presentations&file=mom-explore.md) 
+[![reveal markdown](./assets/revealmarkdown.png)<!-- .element style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=lakruzz&repo=presentations&file=mom-vision.md) 
 
 Compliant with the `markdownloader`<br/>
 click the logo to see it live!
